@@ -1,0 +1,8 @@
+create trinket frame
+create trinket buttons
+handle left/right click
+handle incombat switching
+
+
+maxrows = 5
+

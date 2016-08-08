@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: myTrinkets
+## Author: Turkoid
+## Notes: Lightweight Trinketmanager
+
+myTrinkets.lua

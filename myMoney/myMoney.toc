@@ -1,0 +1,9 @@
+## Interface: 30300
+## Author: Turkoid
+## Title: myMoney
+## Version: 1.2.0
+## Notes: Lightweight money tracking
+## SavedVariables: realmMoneyData
+## SavedVariablesPerCharacter: playerMoneyData
+
+myMoney.lua

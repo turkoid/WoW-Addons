@@ -1,0 +1,16 @@
+## Interface: 30300
+## Author: turkoid
+## Title: oUF Turkoid
+## Notes: turkoid's oUF layout
+## X-oUF: oUF_turkoid
+
+oUF\oUF.xml
+plugins\xp.lua
+spark.lua
+config.lua
+helperfunctions.lua
+aurafilter.lua
+customtags.lua
+colors.lua
+party.xml
+turkoid.lua

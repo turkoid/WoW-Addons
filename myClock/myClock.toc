@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: myClock
+## Author: Turkoid
+## Notes: Displays time, date, and calendar invites
+
+myClock.lua

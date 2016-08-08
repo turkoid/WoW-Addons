@@ -1,0 +1,25 @@
+CHANGELOG:
+--1.2.0
+	-You can now hide/show certain calcuations
+	-Added a config variable to hide/show the border
+	-Added a config variable to modify the textcolor of the main frame
+	-Added a config variable to modify the frame strata
+	-Renamed the loaded Lua file
+	-Included the media files I use
+--1.1.1a
+	-Uploaded as zip instead of rar
+--1.1.1
+	-Changed some of the default settings
+--1.1.0
+	-Add slash commands to handle obselete alts
+	-Sorts character totals by gold amount
+	-Updated TOC to 3.2
+--1.0.2
+	-Fixed realmtime updating
+	-Adjusted some frame offsets
+--1.0.1
+	-Fixed per hour calculation of yesterdays data
+	-Fixed no drag error at startup
+	-Optimized tables
+--1.0.0
+	-Initial Release

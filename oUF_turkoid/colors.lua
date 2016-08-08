@@ -1,0 +1,45 @@
+local _, ns = ...
+local oUF = ns.oUF or oUF
+local colors = oUF.colors
+
+colors.health = {49/255, 207/255, 37/255}
+colors.disconnected = {179/255, 179/255, 179/255}
+colors.tapped = {128/255, 128/255, 128/255}
+colors.dead = {153/255, 153/255, 153/255}
+colors.ghost = {153/255, 153/255, 153/255}
+colors.nopower = {153/255, 153/255, 153/255}
+colors.combopoints = {255/255, 220/255, 25/255}
+colors.reaction = {
+	[1] = {226/255, 45/255, 75/255},	--exceptionally hostile
+	[2] = {226/255, 45/255, 75/255}, 	--very hostile
+	[3] = {226/255, 45/255, 75/255}, 	--hostile
+	[4] = {255/255, 255/255, 34/255},	--neutral
+	[5] = {51/255, 204/255, 38/255},  	--friendly
+	[6] = {51/255, 204/255, 38/255},  	--very friendly
+	[7] = {51/255, 204/255, 38/255},  	--exceptionally friendly
+	[8] = {51/255, 204/255, 38/255},  	--exalted
+}
+colors.power = {
+	["MANA"] = {48/255, 113/255, 191/255},	
+	["RAGE"] = {226/255, 45/255, 75/255},
+	["FOCUS"] = {255/255, 220/255, 25/255},
+	["ENERGY"] = {255/255, 220/255, 25/255},
+	["HAPPINESS"] = {255/255, 255/255, 255/255},
+	["RUNES"] = {0/255, 209/255, 255/255},
+	["RUNIC_POWER"] = {0/255, 209/255, 255/255},
+	["AMMOSLOT"] = {255/255, 220/255, 25/255}, 
+	["FUEL"] = {255/255, 220/255, 25/255},	
+	["POWER_TYPE_STEAM"] = {140/255, 145/255, 156/255},
+	["POWER_TYPE_PYRITE"] = {153/255, 23/255, 43/255},
+	["NO_POWER"] = {0/255, 0/255, 0/255},
+}
+colors.experience = colors.power["MANA"]
+colors.rested = {155/255, 40/255, 255/255}
+colors.black = {0, 0, 0}
+colors.red = {1, 0, 0}
+colors.green = {0, 1, 0}
+colors.blue = {0, 0, 1}
+colors.yellow = {1, 1, 0}
+colors.purple = {1, 0, 1}
+colors.cyan = {0, 1, 1}	
+colors.white = {1, 1, 1}

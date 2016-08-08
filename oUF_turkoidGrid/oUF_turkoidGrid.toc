@@ -1,0 +1,16 @@
+## Interface: 30300
+## Author: turkoid
+## Title: oUF TurkoidGrid
+## Notes: turkoid's oUF grid layout
+## RequiredDeps: oUF_turkoid
+## X-oUF: oUF_turkoid
+
+config.lua
+customtags.lua
+healingdebuffs.lua
+missingbuffs.lua
+raiddebuffs.lua
+statuses.lua
+raid.xml
+turkoid.lua
+

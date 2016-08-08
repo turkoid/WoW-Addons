@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: myPanels
+## Author: Turkoid
+## Notes: CustomPanels for My Interface
+
+myPanels.lua
